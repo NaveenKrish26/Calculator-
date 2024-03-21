@@ -1,0 +1,67 @@
+.call
+{
+    border-style: inherit;
+    border-radius: 10px;
+}
+.first
+{
+    text-align: center;
+    border-style: groove;
+    border-radius: 10px;
+    border-color:aliceblue;
+    width: 320px;
+    height: 320px;
+    margin-left: 480px;
+    background-color: 0,0,0,0.5;
+    box-shadow: 0 0 10px #000;
+    background-color: #d8edff;
+}
+.second
+{
+    border-style: groove;
+    border-radius: 10px;
+    border-color:aliceblue;
+    width: 300px;
+    height: 180px;
+    margin-left: 8px;
+}
+body{
+    margin-top: 100px;
+    background-color: rgb(202, 229, 252);
+}
+.but
+{
+    height: 5vh;
+    overflow: hidden;
+    display: grid;
+    place-items: center;
+    margin-left: 100px;
+}
+button
+{
+    background: #666668;
+    border-radius: 999px;
+    box-shadow: #666668 0 10px 20px -10px;
+    box-sizing: border-box;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    opacity: 1;
+    outline: 0 solid transparent;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: fit-content;
+    word-break: break-word;
+    border: 0;
+}
+button:hover
+{
+    animation: shake .3s linear infinite both;
+}
+input
+{
+    pointer-events: fill;
+}
