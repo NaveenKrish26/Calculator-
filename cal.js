@@ -33,15 +33,15 @@ function cal()
     final_score=score_n1+score_n2;
     if(final_score>=100)
     {
-        alert("This friend is like one soul abiding in two bodies");
+        alert("This kind of friend is like one soul abiding in two bodies");
     }
     else if(final_score>=5 && final_score<=50)
     {
-        alert("He/She is an temporary friend");
+        alert("This kind of friends always like to bunk the class with you");
     }
     else if(final_score>50 && final_score<100)
     {
-        alert("He/She not continue with you as long");
+        alert("This kind of friend always back you boost your energy");
     }
     else if(final_score==0)
     {
