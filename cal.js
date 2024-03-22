@@ -45,6 +45,6 @@ function cal()
     }
     else if(final_score==0)
     {
-        alert("Please enter a name")
+        alert("Please Enter a Name to check!!!")
     }
 }
