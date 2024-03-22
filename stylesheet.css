@@ -12,7 +12,7 @@
     border-color:aliceblue;
     width: 380px;
     height: 440px;
-    margin-left: 250px;
+    margin-left: 350px;
     background-color: 0,0,0,0.5;
     box-shadow: 0 0 10px #000;
     background-color: #d8edff;
@@ -29,8 +29,8 @@
     margin-left: 40px;
 }
 body{
-    margin-top: 600px;
-    background-image: url('friendship2.jpg');
+    margin-top: 550px;
+    background-image: url('friend3.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
