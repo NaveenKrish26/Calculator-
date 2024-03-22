@@ -2,7 +2,6 @@
 {
     border-style: inherit;
     border-radius: 10px;
-    background-color: rgb(6, 138, 253);
     box-shadow: 0 0 10px #000;
 }
 .first
@@ -13,10 +12,11 @@
     border-color:aliceblue;
     width: 380px;
     height: 440px;
-    margin-left: 50px;
+    margin-left: 100px;
     background-color: 0,0,0,0.5;
     box-shadow: 0 0 10px #000;
     background-color: #d8edff;
+    background: transparent;
 }
 .second
 {
@@ -27,11 +27,10 @@
     width: 300px;
     height: 280px;
     margin-left: 40px;
-    background-color: rgb(6, 138, 253);
 }
 body{
-    margin-top: 100px;
-    background-color: rgb(6, 138, 253);
+    margin-top: 300px;
+    background-image: url('HD-wallpaper-friends-friendship-friendship-goals-thumbnail.jpg');
 }
 .but
 {
